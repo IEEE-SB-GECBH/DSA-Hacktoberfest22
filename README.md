@@ -89,7 +89,6 @@ git push origin branch-name
 
 <a href="https://ieeegecbh.org/">
 <img src="https://victorious-pebble-00352ce10.1.azurestaticapps.net/img/web2.png" width=35px>
-</a>&nbsp;&nbsp;&nbsp;
-<a>
-<img src="https://victorious-pebble-00352ce10.1.azurestaticapps.net/img/gmail.png" href="mailto:gecbieee@gmail.com" width=35px>
+</a>&nbsp;&nbsp;&nbsp;<a href="mailto:gecbieee@gmail.com">
+<img src="https://victorious-pebble-00352ce10.1.azurestaticapps.net/img/gmail.png" width=35px>
 </a>
