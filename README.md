@@ -47,7 +47,7 @@ For your PR to count it must be:
 ---
 
 ### How to contribute to this project
-- You can write solutions in C/C++/Java for ***Data Structure and Algorithms***.
+- You can write solutions in C/C++/Java/Python/Any other languages for ***Data Structure and Algorithms***.
 - While adding any content it should be inside its appropiate directory.
 - If you find any inappropriate or better solution you can create an issue.
 - Add your name to the `CONTRIBUTORS.md` file
