@@ -1,6 +1,6 @@
 # List of Contributors
 
-#### Name : ***Your Name***
-- **Location** : _Your Location_
-- **Bio** : _Your Bio_
-- **Github** : [username](<link>)
+#### Name : ***Muzammil***
+- **Location** : _Karachi Pakistan_
+- **Bio** : _Computer Engineering Student_
+- **Github** : [Muzammillcoste](<https://github.com/Muzammillcoste>)
