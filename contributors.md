@@ -1,6 +1,6 @@
 # List of Contributors
 
 #### Name : ***Your Name***
-- **Location** : _Your Location_
-- **Bio** : _Your Bio_
-- **Github** : [username](<link>)
+- **Location** : Karachi, Pakistan
+- **Bio** : Huzaifa Naseer Khan from NED CIS sophomore year
+- **Github** : [HuzaifaNaseer02](https://github.com/HuzaifaNaseer02)
