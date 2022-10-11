@@ -1,6 +1,6 @@
 # List of Contributors
 
-#### Name : ***Your Name***
-- **Location** : _Your Location_
-- **Bio** : _Your Bio_
-- **Github** : [username](<link>)
+#### Name : ***Romir Mehta***
+- **Location** : _India_
+- **Bio** : _Student at IIT BHU_
+- **Github** : [romir077](<https://github.com/romir077>)
