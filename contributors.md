@@ -19,3 +19,8 @@
 - **Location** : _Karachi, Pakistan_
 - **Bio** : _Huzaifa Naseer Khan from NED CIS sophomore year_
 - **Github** : [HuzaifaNaseer02](<https://github.com/HuzaifaNaseer02>)
+
+#### Name : ***Gauri Bhand***
+- **Location** : _Pune_
+- **Bio** : _Student at SPPU_
+- **Github** : [Gauri023](<https://github.com/Gauri023>)
