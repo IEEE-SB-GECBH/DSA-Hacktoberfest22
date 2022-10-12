@@ -19,3 +19,8 @@
 - **Location** : _Karachi, Pakistan_
 - **Bio** : _Huzaifa Naseer Khan from NED CIS sophomore year_
 - **Github** : [HuzaifaNaseer02](<https://github.com/HuzaifaNaseer02>)
+
+#### Name : ***Srishti Sharma***
+- **Location** : _Jharkhand,India_
+- **Bio** : _Computer Engineering Student_
+- **Github** : [Srishti-MSB](<https://github.com/Srishti-MSB>)
