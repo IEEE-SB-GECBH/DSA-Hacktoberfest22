@@ -19,3 +19,8 @@
 - **Location** : _Karachi, Pakistan_
 - **Bio** : _Huzaifa Naseer Khan from NED CIS sophomore year_
 - **Github** : [HuzaifaNaseer02](<https://github.com/HuzaifaNaseer02>)
+
+#### Name : ***Wahaj Raza***
+- **Location** : _Karachi, Pakistan_
+- **Bio** : _Wahaj Raza from NED CIS sophomore year_
+- **Github** : [Wahaj-Raza](<https://github.com/Wahaj-Raza>)
