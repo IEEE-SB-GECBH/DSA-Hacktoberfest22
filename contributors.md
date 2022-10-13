@@ -34,3 +34,8 @@
 - **Location** : _Pune_
 - **Bio** : _Student at SPPU_
 - **Github** : [GauriBhand023](<https://github.com/GauriBhand023>)
+
+#### Name : ***Wahaj Raza***
+- **Location** : _Karachi, Pakistan_
+- **Bio** : _Wahaj Raza from NED CIS sophomore year_
+- **Github** : [Wahaj-Raza](<https://github.com/Wahaj-Raza>)
