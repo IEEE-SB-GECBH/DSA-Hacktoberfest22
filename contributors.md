@@ -40,6 +40,11 @@
 - **Bio** : _Wahaj Raza from NED CIS sophomore year_
 - **Github** : [Wahaj-Raza](<https://github.com/Wahaj-Raza>)
 
+#### Name : ***Dex Lulz***
+- **Location** : _United States_
+- **Bio** : _Just a tech_
+- **Github** : [DexLulz](<https://github.com/DexLulz>)
+
 #### Name : ***Goutham Rajesh***
 - **Location** : _Kerala, India_
 - **Bio** : _Volunteer . Developer . Intrapreneur_
