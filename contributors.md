@@ -49,3 +49,8 @@
 - **Location** : _Kerala, India_
 - **Bio** : _Volunteer . Developer . Intrapreneur_
 - **Github** : [gouthamrajesh](<https://github.com/gouthamrajesh>)
+
+#### Name : ***Priti Shaw***
+- **Location** : _Pune, India_
+- **Bio** : _AI ML Engineer_
+- **Github** : [pritishaw1](<https://github.com/pritishaw1>)
