@@ -54,3 +54,8 @@
 - **Location** : _Pune, India_
 - **Bio** : _AI ML Engineer_
 - **Github** : [pritishaw1](<https://github.com/pritishaw1>)
+
+#### Name : ***Ullas Chandran***
+- **Location** : _Kerala,India_
+- **Bio** : _B.Tech IT Student_
+- **Github** : [UllasChandran](<https://github.com/UllasChandran>)
