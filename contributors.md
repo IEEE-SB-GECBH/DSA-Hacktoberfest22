@@ -59,3 +59,8 @@
 - **Location** : _Kerala,India_
 - **Bio** : _B.Tech IT Student_
 - **Github** : [UllasChandran](<https://github.com/UllasChandran>)
+
+#### Name : ***Prins Kamariya***
+- **Location** : _Gujarat,India_
+- **Bio** : _B.Tech CSE Student_
+- **Github** : [prins2003](<https://github.com/prins2003>)
